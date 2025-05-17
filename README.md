@@ -23,9 +23,9 @@ A simple web-based calculator that allows users to perform basic arithmetic oper
 
 ## Live Demo
 
-[Live Calculator](#)
+[Live Calculator](https://parthvaid02.github.io/calculator/)
 
 ## Screenshots
 
-![Calculator Screenshot](#)
+![Calculator Screenshot](https://github.com/user-attachments/assets/e9af2153-2bed-4912-8f56-d4e0dcae5d07)
 
